@@ -3,3 +3,4 @@ add2
 add4 in local 
 add5 in server
 remote
+remote test-project
